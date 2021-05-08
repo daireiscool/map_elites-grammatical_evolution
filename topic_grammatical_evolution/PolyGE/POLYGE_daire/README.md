@@ -7,4 +7,4 @@ Notes:
 
 Issues:
 - In PonyGE2/src/utilities/fitness/error_metric.py
-    - Changed from sklearn.metrics.classifiaction import f1_score as sklearn_f1_score to from sklearn.metrics import f1_score as sklearn_f1_score
+    - Changed *from sklearn.metrics.classifiaction import f1_score as sklearn_f1_score* to *from sklearn.metrics import f1_score as sklearn_f1_score*
